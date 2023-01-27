@@ -28,7 +28,6 @@ Azure Health Bot URL : https://happy-desert-0c6b6be10.2.azurestaticapps.net/heal
 # MY WEBSITE LINK IS : https://happy-desert-0c6b6be10.2.azurestaticapps.net/
 
 ## DEMO VIDEO URL : https://drive.google.com/drive/folders/1zcHyWIVWl6Lgr5Bn40xvOJwCxaE-8L0w
-https://drive.google.com/drive/folders/1zcHyWIVWl6Lgr5Bn40xvOJwCxaE-8L0w?usp=sharing
 
 ## HOME 
 ![2023-01-27 (1)](https://user-images.githubusercontent.com/116961178/215093944-4f46f2e8-f649-4e28-984e-f92f2296c1a3.png)
