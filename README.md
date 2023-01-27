@@ -17,7 +17,7 @@ Project Title : POULTRY FIELD
 
 Problem Statement/Opportunity :  The poultry field, with its production in the form of eggs and meat, is of particular significance in providing a balanced diet for the human population.
 
-Project Description : in this project we have following the sub templates are home, about, short codes, gallery, contact and health bot. In index template we have the complete code about the project. In this index, we have the certain options like about, short code and contact.
+Project Description : in this project we have following the sub templates are home, about, sevices, contact and health bot. In index template we have the complete code about the project. In this index, we have the certain options like about, services, gallery, contact.
 
 Primary Azure Technology : Static Web Apps, Azure Health Bot
 
